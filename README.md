@@ -1,2 +1,3 @@
-# PersonalPortfolio2
-Personal Portfolio using HTML,  CSS and JS
+# Personal portfolio
+
+An early version of my portfolio, built with HTML, CSS and JavaScript.
